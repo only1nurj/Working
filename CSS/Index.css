@@ -1,0 +1,23 @@
+h1 {
+  color: grey;
+}
+
+#Description {
+  color: blue;
+  font-size: 18px;
+}
+
+.Discount {
+  color: whitesmoke;
+  background-color: red;
+  display: inline;
+}
+
+.Imagename {
+  text-decoration-line: underline;
+  font-weight: bolder;
+}
+
+.span {
+  font-weight: bold;
+}
